@@ -1,0 +1,11 @@
+float64 x_position
+float64 y_position
+float64 theta_position
+---
+float64 x_end_position
+float64 y_end_position
+float64 end_orientation
+---
+float64 x_distance
+float64 y_distance
+float64 orientation
